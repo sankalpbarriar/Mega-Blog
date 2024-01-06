@@ -1,6 +1,8 @@
+
+//sabko ek jagagh laa kar export kar do
 import Header from "./Header/Header";
 import Footer from "./Footer/Footer";
-import Logo from "./Logo";
+import Logo from "./Logo"
 import Container from "./conatiner/Container"
 import LogoutBtn from "./Header/LogoutBtn";
 
